@@ -12,5 +12,5 @@ In short terms:
   - ConstraintLayout is the new kid on the block
 - Reuse paints, paths etc in `OnDraw`
 - Be quick in `OnDraw`; less than 16 ms
-x
+
 Find the latest code and slides at https://github.com/Cheesebaron/android-layout-perf
